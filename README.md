@@ -19,3 +19,10 @@ The latest release of clover 4910 is installed (At the time of this efi), discre
 
 
 The system works as well as 10.13.6 and 10.14.4, as far as possible I will update the EFI.
+
+
+
+
+
+
+In addition, I can say that the keyboard and us are sharpened for this laptop for maximum convenience.
