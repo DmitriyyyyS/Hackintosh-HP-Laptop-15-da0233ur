@@ -9,3 +9,4 @@ WIFI:                     Realtek RTL8723DE Does not work!! (OFF);
 
 
 On this laptop, everything works except wifi and bluetooth!
+The system works as well as 10.13.6 and 10.14.4, as far as possible I will update the EFI.
