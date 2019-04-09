@@ -25,4 +25,4 @@ The system works as well as 10.13.6 and 10.14.4, as far as possible I will updat
 
 
 
-In addition, I can say that the keyboard and us are sharpened for this laptop for maximum convenience.
+In addition, I can say that the keyboard and USB are sharpened for this laptop for maximum convenience.
