@@ -14,11 +14,11 @@ USB:                      2.0(1x) 3.0(2x);
 WIFI:                     Realtek RTL8723DE Does not work!! (OFF);
 
 
-The latest release of clover 4910 is installed (At the time of this efi), discrete graphics are disabled because they do not work in a laptop under hackintosh.
+The latest release of clover 5104 is installed (At the time of this efi), discrete graphics are disabled because they do not work in a laptop under hackintosh.
 
 
 
-The system works as well as 10.13.6 and 10.14.4, as far as possible I will update the EFI.
+The system works as well as 10.13.6 and 10.14.6 and 10.15.3, as far as possible I will update the EFI.
 
 
 
