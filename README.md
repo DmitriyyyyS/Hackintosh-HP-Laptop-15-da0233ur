@@ -18,7 +18,7 @@ The latest release of clover 5104 is installed (At the time of this efi), discre
 
 
 
-The system works as well as 10.13.6 and 10.14.6 and 10.15.3, as far as possible I will update the EFI.
+The system works as well as 10.13.6 and 10.14.6 and 10.15.6, as far as possible I will update the EFI.
 
 
 
